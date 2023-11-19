@@ -1,7 +1,8 @@
-# HTML Exercise 1
+# HTML General Exercise
 
 > **unit:** 6   
 **title:** Website Development  
+**exercise:** 1
 
 ---
 
